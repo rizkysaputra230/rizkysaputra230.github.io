@@ -1623,3 +1623,8 @@ font-family: 'Poppins', sans-serif;
   max-width: 100% !important;
   height: 90% !important;
 }
+
+.more-details {
+  padding-top:10px !important;
+  font-weight: 600 !important
+}
