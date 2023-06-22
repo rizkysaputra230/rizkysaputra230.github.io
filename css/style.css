@@ -944,14 +944,14 @@ font-family: 'Poppins', sans-serif;
   padding: 60px 0;
 }
 
-#portfolio #portfolio-flters {
+#portfolio #portfolio-filters {
   padding: 0;
   margin: 5px 0 35px 0;
   list-style: none;
   text-align: center;
 }
 
-#portfolio #portfolio-flters li {
+#portfolio #portfolio-filters li {
   cursor: pointer;
   margin: 15px 15px 15px 0;
   display: inline-block;
@@ -966,13 +966,13 @@ font-family: 'Poppins', sans-serif;
   transition: all 0.3s ease-in-out;
 }
 
-#portfolio #portfolio-flters li:hover,
-#portfolio #portfolio-flters li.filter-active {
+#portfolio #portfolio-filters li:hover,
+#portfolio #portfolio-filters li.filters-active {
   background: #18d26e;
   color: #fff;
 }
 
-#portfolio #portfolio-flters li:last-child {
+#portfolio #portfolio-filters li:last-child {
   margin-right: 0;
 }
 
@@ -1060,7 +1060,7 @@ font-family: 'Poppins', sans-serif;
   background: #fff;
   text-align: center;
   padding: 30px;
-  height: 90px;
+  height: 115px ;
   border-radius: 0 0 3px 3px;
 }
 
