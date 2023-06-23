@@ -1048,7 +1048,7 @@ font-family: 'Poppins', sans-serif;
 
 #portfolio .portfolio-item figure:hover .link-preview {
   opacity: 1;
-  left: calc(50% - 44px);
+  left: calc(58% - 44px);
 }
 
 #portfolio .portfolio-item figure:hover .link-details {
